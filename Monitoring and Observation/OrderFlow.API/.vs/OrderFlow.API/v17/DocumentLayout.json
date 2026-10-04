@@ -1,0 +1,1113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorderbyid\\getorderbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\infrastructuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\infrastructuredi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\services\\orderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\services\\orderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\monitoring\\orderflowmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\monitoring\\orderflowmetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorders\\getordersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\backgroundservices\\orderprocessingbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\backgroundservices\\orderprocessingbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\backgroundservices\\orderdashboardbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\backgroundservices\\orderdashboardbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\services\\orderdashboardreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\services\\orderdashboardreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\abstractions\\iorderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\abstractions\\iorderprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorderbyid\\getorderbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\caching\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\commands\\createorder\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\monitoring\\orderflowtracing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\monitoring\\orderflowtracing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\orderflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\orderflowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\orderflow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\orderflow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\logs\\orderflow-20260927.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\logs\\orderflow-20260927.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\commands\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\getorderdashboardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\getorderdashboardhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\orderflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\orderflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorders\\orderlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorders\\orderlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\getorderdashboardquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\getorderdashboardquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\abstractions\\iorderdashboardreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\abstractions\\iorderdashboardreadmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorderbyid\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorderbyid\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\queries\\getallproducts\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\queries\\getallproducts\\getproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\commands\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\configurations\\orderdashboardreadmodelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\configurations\\orderdashboardreadmodelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\entities\\orderdashboardreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\entities\\orderdashboardreadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.api\\controllers\\dashboardcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AC02A9-7F22-4214-9E43-8D35B829AD2B}|OrderFlow.API\\OrderFlow.API.csproj|solutionrelative:orderflow.api\\controllers\\dashboardcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\orderdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\dashboard\\queries\\getorderdashboard\\orderdashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorders\\getordersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\queries\\getorderbyid\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\queries\\getorderbyid\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\commands\\createorder\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\commands\\createorder\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\order\\commands\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\order\\commands\\createorder\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\queries\\getallcustomer\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\queries\\getallcustomer\\getcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\queries\\getallcustomer\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\queries\\getallcustomer\\getcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\queries\\getallcustomer\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\queries\\getallcustomer\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\customer\\commands\\createcustomer\\createcustomerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\queries\\getallproducts\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\queries\\getallproducts\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\queries\\getallproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\queries\\getallproducts\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\features\\product\\commands\\createproduct\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\features\\product\\commands\\createproduct\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B98038-0B0E-4EEB-A0A7-25E91A85CA58}|OrderFlow.Domain\\OrderFlow.Domain.csproj|solutionrelative:orderflow.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B481573A-D1C5-41B4-A0A9-4895C610C80F}|OrderFlow.Application\\OrderFlow.Application.csproj|solutionrelative:orderflow.application\\abstractions\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|i:\\vs projects c#\\project-2\\api\\orderflow.api\\orderflow.infrastructure\\database\\migrations\\20260911145941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E2EFF6-E13B-4AA5-AFDD-965E404F05C3}|OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj|solutionrelative:orderflow.infrastructure\\database\\migrations\\20260911145941_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDashboardReadModelService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Services\\OrderDashboardReadModelService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Services\\OrderDashboardReadModelService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Services\\OrderDashboardReadModelService.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Services\\OrderDashboardReadModelService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:18:31.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderFlowMetrics.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Monitoring\\OrderFlowMetrics.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Monitoring\\OrderFlowMetrics.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Monitoring\\OrderFlowMetrics.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Monitoring\\OrderFlowMetrics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T20:30:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrdersQueryHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQueryHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:05:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Controllers\\OrderController.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderFlow.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:54:26.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfrastructureDI.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\InfrastructureDI.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\InfrastructureDI.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\InfrastructureDI.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\InfrastructureDI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:37:07.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetOrderByIdQueryHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQueryHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQueryHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:51:19.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OrderFlow.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:59:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderFlow.API\\appsettings.json",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\appsettings.json",
+              "RelativeToolTip": "OrderFlow.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T16:30:14.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderProcessingService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Services\\OrderProcessingService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Services\\OrderProcessingService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Services\\OrderProcessingService.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Services\\OrderProcessingService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:56:42.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderProcessingService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IOrderProcessingService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Abstractions\\IOrderProcessingService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IOrderProcessingService.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Abstractions\\IOrderProcessingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:56:05.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderProcessingBackgroundService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\BackgroundServices\\OrderProcessingBackgroundService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\BackgroundServices\\OrderProcessingBackgroundService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\BackgroundServices\\OrderProcessingBackgroundService.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\BackgroundServices\\OrderProcessingBackgroundService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T17:58:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDashboardBackgroundService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\BackgroundServices\\OrderDashboardBackgroundService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\BackgroundServices\\OrderDashboardBackgroundService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\BackgroundServices\\OrderDashboardBackgroundService.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\BackgroundServices\\OrderDashboardBackgroundService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:23:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetOrderByIdQuery.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQuery.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQuery.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQuery.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\GetOrderByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:50:14.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Caching\\RedisCacheService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Caching\\RedisCacheService.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Caching\\RedisCacheService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:58:40.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:41:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderFlowTracing.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Monitoring\\OrderFlowTracing.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Monitoring\\OrderFlowTracing.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Monitoring\\OrderFlowTracing.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Monitoring\\OrderFlowTracing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T22:10:27.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:35:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:48:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Entities\\Order.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:34:48.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:34:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Program.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Program.cs",
+              "RelativeToolTip": "OrderFlow.API\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwHEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:38:31.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderFlowDbContext.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\OrderFlowDbContext.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\OrderFlowDbContext.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\OrderFlowDbContext.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\OrderFlowDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:56:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderFlow.Infrastructure.csproj",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\OrderFlow.Infrastructure.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T19:41:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "OrderFlow.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T21:02:40.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "orderflow-20260927.log",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Logs\\orderflow-20260927.log",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Logs\\orderflow-20260927.log",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Logs\\orderflow-20260927.log",
+              "RelativeToolTip": "OrderFlow.API\\Logs\\orderflow-20260927.log",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-09-26T22:00:57.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\ICacheService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\ICacheService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\ICacheService.cs",
+              "RelativeToolTip": "OrderFlow.Application\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:57:25.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetOrderDashboardHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:01:13.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:41:11.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderFlow.API.csproj",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\OrderFlow.API.csproj",
+              "RelativeDocumentMoniker": "OrderFlow.API\\OrderFlow.API.csproj",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\OrderFlow.API.csproj",
+              "RelativeToolTip": "OrderFlow.API\\OrderFlow.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-09T19:43:37.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderListDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\OrderListDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\OrderListDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\OrderListDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\OrderListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:03:56.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetOrderDashboardQuery.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardQuery.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardQuery.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardQuery.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\GetOrderDashboardQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:00:47.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOrderDashboardReadModelService.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IOrderDashboardReadModelService.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Abstractions\\IOrderDashboardReadModelService.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IOrderDashboardReadModelService.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Abstractions\\IOrderDashboardReadModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:17:21.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderDetailsDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderDetailsDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:48:29.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetProductsQueryHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQueryHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQueryHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQueryHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAawBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:43:22.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:15:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Controllers\\ProductController.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OrderFlow.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:26:17.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20260911145941_InitialCreate.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911145941_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911145941_InitialCreate.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911145941_InitialCreate.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911145941_InitialCreate.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAADwv4UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:59:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:46:17.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderDashboardReadModel.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\OrderDashboardReadModel.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Entities\\OrderDashboardReadModel.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\OrderDashboardReadModel.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Entities\\OrderDashboardReadModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:40:57.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260911144836_FixOrderDashboardReadModelIdentity.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911144836_FixOrderDashboardReadModelIdentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:48:36.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20260911145059_FixOrderDashboardReadModelIdentity.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Migrations\\20260911145059_FixOrderDashboardReadModelIdentity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:50:59.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDashboardReadModelConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderDashboardReadModelConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderDashboardReadModelConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderDashboardReadModelConfiguration.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderDashboardReadModelConfiguration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:51:39.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DashboardController .cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\DashboardController .cs",
+              "RelativeDocumentMoniker": "OrderFlow.API\\Controllers\\DashboardController .cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.API\\Controllers\\DashboardController .cs",
+              "RelativeToolTip": "OrderFlow.API\\Controllers\\DashboardController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:04:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderDashboardDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\OrderDashboardDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\OrderDashboardDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\OrderDashboardDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Dashboard\\Queries\\GetOrderDashboard\\OrderDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T13:00:16.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderItemDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderItemDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrderByid\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:48:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\OrderProfile.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\OrderProfile.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:55:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "GetOrdersQuery.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Queries\\GetOrders\\GetOrdersQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T01:04:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\ProductProfile.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\ProductProfile.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:17:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\CustomerProfile.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\CustomerProfile.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:58:00.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateOrderItemDTO.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderItemDTO.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderItemDTO.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderItemDTO.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:40:33.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateOrderDTO.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderDTO.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderDTO.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderDTO.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Order\\Commands\\CreateOrder\\CreateOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T20:37:48.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateCustomeHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomeHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomeHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomeHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomeHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:54:58.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetCustomerHandler.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerHandler.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerHandler.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerHandler.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T00:03:42.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\CustomerDTO.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\CustomerDTO.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T00:02:36.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GetCustomerQuery.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerQuery.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerQuery.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerQuery.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Queries\\GetAllCustomer\\GetCustomerQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T00:03:10.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:54:04.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateCustomerDTO.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerDTO.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerDTO.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerDTO.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Customer\\Commands\\CreateCustomer\\CreateCustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T23:52:25.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQuery.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQuery.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\GetProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:42:41.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:54:27.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Entities\\Customer.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:34:04.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Commands\\CreateProduct\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:53:51.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\ProductDto.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\ProductDto.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\ProductDto.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Features\\Product\\Queries\\GetAllProducts\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T20:41:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Application\\Abstractions\\IApplicationDbContext.cs",
+              "RelativeToolTip": "OrderFlow.Application\\Abstractions\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:32:26.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Product.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Domain\\Entities\\Product.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "OrderFlow.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:33:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:47:08.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "I:\\vs projects c#\\project-2\\API\\OrderFlow.API\\OrderFlow.Infrastructure\\Database\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "OrderFlow.Infrastructure\\Database\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:37:29.68Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 376,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
